@@ -1,5 +1,4 @@
-class StringCalculator {
-    add(numbers) {
-        
-    }
-}
+StringCalculator = function() {};
+StringCalculator.prototype.add = function(numbers) {
+        return null;
+    };
