@@ -1,5 +1,0 @@
-This starter can be used two ways:
-1) Implement cucumber steps to test drive the creation of a Ruby StringCalculator class.
-   This is essentially using cucumber for TDD/Unit testing.  However, it is a lightweight introduction to Cucumber.
-
-2) Do full cycle outer Red-Green-Refactor with cucumber and inner R-G-R with mocha.
